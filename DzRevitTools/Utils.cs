@@ -32,7 +32,7 @@ public static class Utils
         var prefix = newLineAndTime ? $"\n{now:HH:mm:ss} " : "";
         File.AppendAllText(DayLogPath, $"{prefix}{s}");
 
-        if (Environment.UserName != "sg22") return;
+        if (Environment.UserName != "dz21") return;
         File.AppendAllText(PathCommon, $"{prefix}{s}");
     }
 
