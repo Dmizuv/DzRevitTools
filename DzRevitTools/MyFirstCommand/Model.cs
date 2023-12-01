@@ -22,7 +22,7 @@ public class Model
         // using var t = new Transaction(_doc);
         // t.Start(new Command().Title);
 
-        MessageBox.Show("qwe12 fdddddddddddddddddqwe12 fdddddddddddddddddqwe12 fdddddddddddddddddqwe12 fdddddddddddddddddqwe12 fddddddddddddddddd");
+        MessageBox.Show("qwe12 fdddddddddddddddd");
         
         // t.SetName($"{t.GetName()} ({_resultCounter})");
         // t.Commit();
