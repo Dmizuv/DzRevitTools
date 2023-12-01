@@ -86,6 +86,8 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="MyFirstCommand\Command.cs" />
+    <Compile Include="MyFirstCommand\Model.cs" />
     <Compile Include="TEMPLATE\Command.cs" />
     <Compile Include="TEMPLATE\Model.cs" />
     <Compile Include="TEMPLATE\View.xaml.cs" />

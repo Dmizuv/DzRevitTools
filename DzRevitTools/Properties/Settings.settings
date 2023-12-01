@@ -1,8 +1,6 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DzRevitTools.Properties" GeneratedClassName="Settings">
+  <Profiles />
   <Settings>
     <Setting Name="CounterRunRibbon" Type="System.Int64" Scope="User">
       <Value Profile="(Default)">0</Value>
@@ -11,6 +9,9 @@
       <Value Profile="(Default)">0</Value>
     </Setting>
     <Setting Name="CounterRunTemplate" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CounterRunMyFirstCommand" Type="System.Int64" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
   </Settings>
